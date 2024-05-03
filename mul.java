@@ -1,7 +1,7 @@
 public class mul {
     public static void main(String[] args) {
-        int a = 2;
-        int b= 3;
+        int a = 11;
+        int b= 10;
         System.out.println("multiplication of "  +a+ "and" +b+ "is " +a*b);
     }
     
